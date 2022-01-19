@@ -13,14 +13,14 @@
 
 - 🌱 I’m currently learning **SQL**
 
-- 💬 Ask me about **Javascript,React,Redux,Node.js,Express.js,CSS**
+- 💬 Ask me about **Javascript, React, Redux, Node.js, Express.js, CSS**
 
 - 📫 How to reach me **kapilsoni54768161@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kapil54768161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kapil54768161" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kapil soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kapil soni" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kapil-soni-2b25981ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kapil soni" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,7 +38,3 @@
  
  </p>
 <p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapil4457&show_icons=true&cache_seconds=1800&locale=en&layout=compact" alt="kapil4457"  /></p>
-<br>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kapil4457&show_icons=true&locale=en" alt="kapil4457" /></p>
-
