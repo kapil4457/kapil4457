@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **SQL**
 
-- 💬 Ask me about **Javascript, React, Redux, Node.js, Express.js, CSS**
+- 💬 Ask me about **Javascript, React, Redux, Node.js, Express.js, CSS, MongoDb**
 
 - 📫 How to reach me **kapilsoni54768161@gmail.com**
 
