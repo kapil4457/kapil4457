@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently making MERN Projects
 - 👯 I’m looking to collaborate on FrontEnd or BackEnd Projects
 - 📫 How to reach me: kapilsoni54768161@gmail.com
 <img src="https://github-readme-stats.vercel.app/api?username=kapil4457&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
@@ -11,7 +11,7 @@
 <h3 align="center">I am a Student from India. I am a Web Developer and likes to learn new tech things</h3>
 
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently making **MERN** Projects.
 
 - 💬 Ask me about **Javascript, React, Redux, Node.js, Express.js, CSS, MongoDb**
 
