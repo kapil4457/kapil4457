@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently Learning Docker.
 
-- 💬 Ask me about **Javascript, React, Redux, Node.js, Express.js, CSS, MongoDb , c++**
+- 💬 Ask me about **Javascript, React, Redux, Node.js, Express.js, CSS, MongoDb , C++**
 
 - 📫 How to reach me **kapilsoni54768161@gmail.com**
 
