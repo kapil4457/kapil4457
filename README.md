@@ -36,4 +36,9 @@
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
  
  </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapil4457&label=Profile%20views&color=0e75b6&style=flat" alt="kapil4457" /> </p>
+ <div>
 <p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapil4457&show_icons=true&cache_seconds=1800&locale=en&layout=compact" alt="kapil4457"  /></p>
+ </div>
+
+
