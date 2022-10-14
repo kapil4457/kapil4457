@@ -11,7 +11,7 @@
 <h3 align="center">I am a Student from India. I am a Web Developer and likes to learn new tech things</h3>
 
 
-- 🌱 I’m currently Learning Docker.
+- 🌱 I’m currently Brushing up my MERN Stack knowledge.
 
 - 💬 Ask me about **Javascript, React, Redux, Node.js, Express.js, CSS, MongoDb , C++**
 
