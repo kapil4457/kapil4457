@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently Brushing up my MERN Stack knowledge.
 
-- 💬 Ask me about **Javascript, React, Redux, Node.js, Express.js, CSS, MongoDb , C++**
+- 💬 Ask me about **Javascript, React, Redux, Node.js, Express.js,Redux, CSS, MongoDb , C++**
 
 - 📫 How to reach me **kapilsoni54768161@gmail.com**
 
