@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kapil Soni</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h2 align="center">A Full Stack Developer</h2>
 
 
 - 🌱 I’m currently learning **Web3**
