@@ -2,7 +2,7 @@
 <h2 align="center">A Full Stack Developer</h2>
 
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **Devops and Web3**
 
 - 📫 How to reach me **kapilsoni54768161@gmail.com**
 
